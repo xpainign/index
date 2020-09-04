@@ -1,5 +1,5 @@
 var authConfig = {
-  siteName: 'G-Index', // WebSite Name
+  siteName: 'Xpain Team Drive Index', // WebSite Name
   version: '1.0', // VersionControl, do not modify manually
   // Only material!
   theme: 'material', // material  classic
